@@ -10,7 +10,7 @@ An element is special if its 1-based index divides the array length.
 2. Iterate through indices from 1 to n.
 3. Check whether n is divisible by the current index.
 4. If divisible, add the square of the corresponding element to the sum.
-5. Return the final sum.
+5. Return the final sum
 
 ## Complexity Analysis
 - Time Complexity: O(n)
